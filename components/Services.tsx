@@ -7,7 +7,7 @@ const Services = () => {
        Our Services
         <span className="absolute bottom-[-4px] left-1/2 transform -translate-x-1/2 w-[4%] h-1 bg-amber-900 rounded-md -my-2"></span>
       </div>
-      <div className="w-full flex justify-center">
+      <div className="w-full md:flex justify-center">
       <div className="md:grid grid-cols-2 md:gap-6 md:w-8/12 w-full">
         <div className="relative border-4 p-4 rounded-lg border-amber-900 md:mb-0 mb-10">
     {/* Icon on the border */}
